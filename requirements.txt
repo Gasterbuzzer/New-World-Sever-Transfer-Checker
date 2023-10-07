@@ -1,0 +1,2 @@
+debuglogs
+win10toast
